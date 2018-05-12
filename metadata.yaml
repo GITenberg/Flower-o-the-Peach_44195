@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7708
     wikipedia: http://en.wikipedia.org/wiki/Perceval_Gibbon
 description: Also published as "Margaret Harding", Methuen & Co. Ltd., 1911
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44195#Flower-o-the-Peach
 gutenberg_issued: '2013-11-16'
 gutenberg_type: Text
 identifiers:
