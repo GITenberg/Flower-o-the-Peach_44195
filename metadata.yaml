@@ -1,0 +1,28 @@
+_repo: Flower-o-the-Peach_44195
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44195-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Gibbon, Perceval
+    birthdate: 1879
+    deathdate: 1926
+    gutenberg_agent_id: '7708'
+    url: http://www.gutenberg.org/2009/agents/7708
+    wikipedia: http://en.wikipedia.org/wiki/Perceval_Gibbon
+description: Also published as "Margaret Harding", Methuen & Co. Ltd., 1911
+gutenberg_issued: '2013-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Fiction'
+- !lcsh 'Race relations -- Fiction'
+- !lcc 'PR'
+title: Flower o' the Peach
+url: http://www.gutenberg.org/ebooks/44195
